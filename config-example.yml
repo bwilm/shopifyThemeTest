@@ -1,0 +1,11 @@
+development:
+ store: shop-tlas@myshopify.com 
+ Password: 061ffe6d0b1dc7358025e2c7a5069051
+ theme_id: "live"
+ bucket_size: 40
+ refill_rate: 2
+ ignore_files:
+ -"*.swp"
+ -"*~"
+ -"config/settings_data.json"
+
